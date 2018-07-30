@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="20px" viewBox="0 0 50 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>永V</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.7643495%" y1="50%" x2="3.03576608e-15%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="50" height="20" rx="10"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="永V">
+            <g>
+                <g id="Rectangle-9">
+                    <use fill="#FF6000" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.23" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-2"></use>
+                </g>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="23.2705078" y="14.6">永V</tspan>
+                </text>
+                <path d="M15.2244982,9 L10.8638874,9 L9.91288851,8.03834191 C9.62362706,7.74580968 9.14601528,7.73698405 8.84611271,8.01862931 C8.56542689,8.28222767 8.53988517,8.7068415 8.77490787,9 L5,9 L8,4 L18,4 L21,9 L17.3134777,9 C17.5485004,8.7068415 17.5229587,8.28222767 17.2422729,8.01862931 C16.9423703,7.73698405 16.4647585,7.74580968 16.1754971,8.03834191 L15.2244982,9 Z M17.3115064,9.00244836 L21,9.00318188 L13,17 L5,9 L8.7755106,9.00075083 C8.79143047,9.02055595 8.80854142,9.03975903 8.82684511,9.0582697 L12.4898273,12.762308 C12.6406924,12.914879 12.842792,12.9902769 13.0441928,12.9875421 C13.2455936,12.9902769 13.4476932,12.914879 13.5985583,12.762308 L17.2615405,9.0582697 C17.2793208,9.04028835 17.2959756,9.02165362 17.3115064,9.00244836 Z M15.2224878,9.00203292 L13.0441928,11.2047431 L10.8650409,9.00116637 L15.2224878,9.00203292 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

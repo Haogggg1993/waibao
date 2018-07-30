@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="142px" viewBox="0 0 120 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>rar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FCC11A" offset="0%"></stop>
+            <stop stop-color="#FAA70B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#98BCCD" offset="0%"></stop>
+            <stop stop-color="#76A1B7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#9E9EEE" offset="0%"></stop>
+            <stop stop-color="#7D7CE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="文件图标集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rar">
+            <g id="cab">
+                <g stroke-width="1" id="code">
+                    <g>
+                        <g id="chm">
+                            <g id="doc">
+                                <g id="fla">
+                                    <g id="avi">
+                                        <g id="img">
+                                            <path d="M120,31 L120,136 C120,139.456977 117.441627,142 113.94958,142 L6.05042017,142 C2.55837286,142 0,139.456977 0,136 L0,6 C0,2.54302262 2.55837286,0 6.05042017,0 L88.7394958,0 L120,31 Z" id="矩形_20" fill="url(#linearGradient-1)"></path>
+                                            <path d="M120,31 L95,31 C91.523486,31 89,28.476514 89,25 L89,0 L120,31 Z" id="矩形_21" fill="#FDD47A"></path>
+                                        </g>
+                                    </g>
+                                    <text id="cab" font-family="Helvetica" font-size="24" font-weight="normal" fill="#FFFFFF">
+                                        <tspan x="12" y="30">rar</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M56,52 L63,52 L63,59 L56,59 L56,52 Z M56,65 L63,65 L63,72 L56,72 L56,65 Z M56,77 L63,77 L63,84 L56,84 L56,77 Z M68.8484317,102.467396 C69.9850899,104.003281 70.7311798,105.845035 70.9400977,107.845966 L71,108 L70.9550888,108 C70.9848142,108.329371 71,108.66292 71,109 C71,115.084389 66.0788315,120 60,120 C53.929972,120 49,115.07514 49,109 C49,108.662904 49.0151316,108.329356 49.0447546,108 L49,108 L49.0596192,107.846693 C49.2684687,105.83838 50.0167446,103.990938 51.1575203,102.452091 L56,90 L64,90 L68.8484317,102.467396 Z M60.5454545,103 C63.3137908,103.00389 66,105.689432 66,109.461538 C66,112.315755 63.3137908,115 60.5454545,115 C56.6878081,115 54,112.314459 54,109.461538 C54,105.690728 56.6894071,103 60.5454545,103 Z" id="圆角矩形_1-7" fill="#FFFFFF" opacity="0.6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>tabbar_115cloud_blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#069CFF" offset="0%"></stop>
+            <stop stop-color="#00B4FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabbar_115cloud_blue" fill="url(#linearGradient-1)">
+            <path d="M23.446732,28.6990678 L23.4531647,28.7019318 C25.9209809,23.1592041 31.4921392,19.5 37.7475635,19.5 C38.5671856,19.5 39.3776629,19.5621657 40.1738939,19.6845412 C45.3061725,21.4233702 49,26.2803153 49,32 C49,39.1797017 43.1797017,45 36,45 L15,45 L15,44.9621104 L15,44.9621104 C8.28755229,44.4514855 3,38.8432298 3,32 C3,26.2141044 6.77984174,21.3110382 12.0049141,19.6254123 C12.2034603,12.0665823 18.393267,6 26,6 C32.5551749,6 38.0580985,10.5052232 39.5813427,16.5882415 C38.9751355,16.5296078 38.363336,16.5 37.7475635,16.5 C30.3011366,16.5 23.6598154,20.8621 20.7125347,27.4817076 L20.7348024,27.4916219 C20.5859588,27.7249078 20.5,28.0023224 20.5,28.2999878 C20.5,29.1341906 21.1715729,29.7999878 22,29.7999878 C22.695052,29.7999878 23.273195,29.3337747 23.446732,28.6990678 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

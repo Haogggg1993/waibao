@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>tool_bar_more@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="tool_bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tool_bar_more" fill="#888888">
+            <path d="M19.5,9 C17.5670034,9 16,7.43299662 16,5.5 C16,3.56700338 17.5670034,2 19.5,2 C21.4329966,2 23,3.56700338 23,5.5 C23,7.43299662 21.4329966,9 19.5,9 Z M19.5,24 C17.5670034,24 16,22.4329966 16,20.5 C16,18.5670034 17.5670034,17 19.5,17 C21.4329966,17 23,18.5670034 23,20.5 C23,22.4329966 21.4329966,24 19.5,24 Z M19.5,39 C17.5670034,39 16,37.4329966 16,35.5 C16,33.5670034 17.5670034,32 19.5,32 C21.4329966,32 23,33.5670034 23,35.5 C23,37.4329966 21.4329966,39 19.5,39 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

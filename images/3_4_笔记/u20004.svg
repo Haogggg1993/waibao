@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>xxxhdpi/reply_bar_reply</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="post_bar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reply_bar_reply" stroke="#888888" stroke-width="3">
+            <path d="M12.5,35.0372832 L20.0396044,29.5 L30,29.5 C32.4852814,29.5 34.5,27.4852814 34.5,25 L34.5,10 C34.5,7.51471863 32.4852814,5.5 30,5.5 L9,5.5 C6.51471863,5.5 4.5,7.51471863 4.5,10 L4.5,27 C4.5,28.3807119 5.61928813,29.5 7,29.5 L10,29.5 C11.3807119,29.5 12.5,30.6192881 12.5,32 L12.5,35.0372832 Z" id="Rectangle-3"></path>
+        </g>
+    </g>
+</svg>

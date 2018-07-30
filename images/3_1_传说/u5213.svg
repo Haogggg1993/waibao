@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>more_starmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F7BD0B" offset="0%"></stop>
+            <stop stop-color="#FAD21B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="more" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="more_starmark">
+            <g id="星标" fill="url(#linearGradient-1)">
+                <circle id="Oval-Copy" cx="60" cy="60" r="60"></circle>
+            </g>
+            <polygon id="menu_star" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="60 73.5 44.1297982 81.8434588 47.160737 64.1717294 34.3214741 51.6565412 52.0648991 49.0782706 60 33 67.9351009 49.0782706 85.6785259 51.6565412 72.839263 64.1717294 75.8702018 81.8434588"></polygon>
+        </g>
+    </g>
+</svg>

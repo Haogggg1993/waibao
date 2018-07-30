@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="20px" viewBox="0 0 50 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>月V</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="3.061617e-15%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="50" height="20" rx="10"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="月V">
+            <g>
+                <g id="Rectangle-9">
+                    <use fill="#00A8FF" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.23" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-2"></use>
+                </g>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="23.2705078" y="14.6">月V</tspan>
+                </text>
+                <path d="M8.73071507,9 L5,9 L8,4 L18,4 L21,9 L17.2692849,9 C17.5043076,8.7068415 17.4787659,8.28222767 17.1980801,8.01862931 C16.8981775,7.73698405 16.4205657,7.74580968 16.1313043,8.03834191 L15.1803054,9 L10.8196946,9 L9.86869572,8.03834191 C9.57943426,7.74580968 9.10182249,7.73698405 8.80191991,8.01862931 C8.5212341,8.28222767 8.49569237,8.7068415 8.73071507,9 Z M10.8208394,9.00115758 L15.1783037,9.00202414 L13,11.2047431 L10.8208394,9.00115758 Z M8.73131074,9.00074204 C8.74723261,9.02055026 8.76434591,9.03975629 8.78265231,9.0582697 L12.4456345,12.762308 C12.5964996,12.914879 12.7985992,12.9902769 13,12.9875421 C13.2014008,12.9902769 13.4035004,12.914879 13.5543655,12.762308 L17.2173477,9.0582697 C17.2351307,9.04028561 17.2517878,9.02164794 17.2673207,9.00243957 L21,9.00318188 L13,17 L5,9 L8.73131074,9.00074204 Z" id="vip" fill="#FFFFFF" opacity="0.8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

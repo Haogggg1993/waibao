@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>menu_scan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7FD7E1" offset="0%"></stop>
+            <stop stop-color="#58C5E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="153.320312%" id="linearGradient-2">
+            <stop stop-color="#7FD7E1" offset="0%"></stop>
+            <stop stop-color="#58C5E3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu_scan">
+            <path d="M34,12 L34,7.99428189 C34,6.3405687 32.6594143,5 31.0057181,5 L7.99428189,5 C6.3405687,5 5,6.34058566 5,7.99428189 L5,12 L2,12 L2,27 L5,27 L5,31.0057181 C5,32.6594313 6.34058566,34 7.99428189,34 L31.0057181,34 C32.6594313,34 34,32.6594143 34,31.0057181 L34,27 L37,27 L37,12 L34,12 Z M2,7.99681848 C2,4.68486709 4.6882755,2 7.99681848,2 L31.0031815,2 C34.3151329,2 37,4.6882755 37,7.99681848 L37,31.0031815 C37,34.3151329 34.3117245,37 31.0031815,37 L7.99681848,37 C4.68486709,37 2,34.3117245 2,31.0031815 L2,7.99681848 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="2" y="18" width="35" height="3" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>

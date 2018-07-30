@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>编辑内容</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="40" cy="40" r="40"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编辑内容">
+            <g id="Group-2">
+                <g id="Oval" fill-rule="nonzero">
+                    <use fill="#00A8FF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                </g>
+                <g id="矩形-33-拷贝" transform="translate(24.000000, 24.000000)">
+                    <path d="M29.7770157,8.2248911 L23.631659,1.33811964 C23.155265,0.819145201 22.4330189,0.553040482 21.429817,0.553040482 C20.7899272,0.553040482 20.2761617,0.703634215 19.8606243,0.954719604 C19.7171013,1.04144231 19.5982264,1.13228568 19.4909717,1.22968196 C19.4589021,1.25880384 19.434479,1.28222814 19.3903922,1.3252434 C19.3683095,1.34668167 19.3683095,1.34668167 19.3311829,1.37911406 C19.3248676,1.41909036 19.3213073,1.44162727 19.2630851,1.44402169 L0.49999973,20.2071071 L0.499990022,27.6528413 C0.50072585,27.7693148 0.501062507,27.8851249 0.500999926,28.0002717 C0.500056748,29.7356887 1.19001958,30.5 3,30.5 L4.83550448,30.5 C6.78457521,30.5 6.85989292,30.5 9.65007814,30.5 L29.6025293,11.6966569 C30.1246143,11.0125686 30.3763229,10.3740129 30.3763229,9.77687011 C30.3763229,9.42532026 30.2827731,9.10891412 30.1154096,8.79731815 C30.0550549,8.68495036 30.054793,8.68453334 29.8961643,8.43971417 C29.8469855,8.36381414 29.8195955,8.31820901 29.7944191,8.26413118 C29.7883218,8.25103442 29.7825069,8.23795495 29.7770157,8.2248911 Z" id="Shape" stroke="#FFFFFF"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="3 30 32.997 30 32.997 30.987 3 30.987"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
